@@ -1,0 +1,62 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+
+.greeting{
+    color: #071952;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+   
+}
+.courseCards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    row-gap: 30px;
+    margin-bottom: 30px;
+}
+
+#card-image{
+    height: 200px;
+    padding-top: 20px;
+}
+
+#card-image1{
+    height: 200px;
+    /* padding-top: 20px; */
+}
+
+
+.main_blog_seec{
+    height: 500px;
+    
+    background-color: whitesmoke;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+    gap: 30px;
+    margin-bottom: 70px;
+}
+
+#blogTextArea{
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+}
+
+.blogSection{
+    flex-direction: column;
+}
+
+.blog_heading{
+    border-radius: 10px;
+    padding: 10px;
+    
+}

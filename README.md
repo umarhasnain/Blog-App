@@ -1,1 +1,1 @@
-# Blog-App
+# Student-Quiz-App
